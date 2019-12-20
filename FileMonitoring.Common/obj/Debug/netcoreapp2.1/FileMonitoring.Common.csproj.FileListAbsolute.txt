@@ -1,9 +1,0 @@
-/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/bin/Debug/netcoreapp2.1/FileMonitoring.Common.deps.json
-/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/bin/Debug/netcoreapp2.1/FileMonitoring.Common.dll
-/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/bin/Debug/netcoreapp2.1/FileMonitoring.Common.pdb
-/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/obj/Debug/netcoreapp2.1/FileMonitoring.Common.csprojAssemblyReference.cache
-/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/obj/Debug/netcoreapp2.1/FileMonitoring.Common.csproj.CoreCompileInputs.cache
-/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/obj/Debug/netcoreapp2.1/FileMonitoring.Common.AssemblyInfoInputs.cache
-/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/obj/Debug/netcoreapp2.1/FileMonitoring.Common.AssemblyInfo.cs
-/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/obj/Debug/netcoreapp2.1/FileMonitoring.Common.dll
-/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/obj/Debug/netcoreapp2.1/FileMonitoring.Common.pdb
