@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/FileMonitoring.Common.csproj": {}
+  },
+  "projects": {
+    "/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/FileMonitoring.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/FileMonitoring.Common.csproj",
+        "projectName": "FileMonitoring.Common",
+        "projectPath": "/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/FileMonitoring.Common.csproj",
+        "packagesPath": "/home/apervushin/.nuget/packages/",
+        "outputPath": "/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/apervushin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "SharpCifs.Std": {
+              "target": "Package",
+              "version": "[0.2.13, )"
+            },
+            "prometheus-net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring/FileMonitoring.csproj",
+    "projectName": "FileMonitoring",
+    "projectPath": "/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring/FileMonitoring.csproj",
+    "outputPath": "/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/FileMonitoring.Common.csproj": {
+            "projectPath": "/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Common/FileMonitoring.Common.csproj"
+          },
+          "/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.DataAccess/FileMonitoring.DataAccess.csproj": {
+            "projectPath": "/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.DataAccess/FileMonitoring.DataAccess.csproj"
+          },
+          "/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Scheduler/FileMonitoring.Scheduler.csproj": {
+            "projectPath": "/home/apervushin/RiderProjects/foms-gateway-dotnet/file-monitoring-net-core/FileMonitoring.Scheduler/FileMonitoring.Scheduler.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.1.4, )"
+        },
+        "Microsoft.EntityFrameworkCore.Design": {
+          "target": "Package",
+          "version": "[2.1.4, )"
+        },
+        "Microsoft.Extensions.Configuration.Json": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.Extensions.Logging": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Npgsql.EntityFrameworkCore.PostgreSQL": {
+          "target": "Package",
+          "version": "[2.1.2, )"
+        },
+        "Serilog.AspNetCore": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Serilog.Settings.Configuration": {
+          "target": "Package",
+          "version": "[3.0.1, )"
+        },
+        "Serilog.Sinks.Console": {
+          "target": "Package",
+          "version": "[3.1.1, )"
+        },
+        "Serilog.Sinks.File": {
+          "target": "Package",
+          "version": "[4.0.0, )"
+        },
+        "prometheus-net.AspNetCore": {
+          "target": "Package",
+          "version": "[3.1.4, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentScheduler" Version="5.3.0" />
+      <PackageReference Include="Microsoft.Extensions.Logging" Version="2.1.1" />
+      <PackageReference Include="prometheus-net.AspNetCore" Version="3.1.4" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\FileMonitoring.Common\FileMonitoring.Common.csproj" />
+      <ProjectReference Include="..\FileMonitoring.DataAccess\FileMonitoring.DataAccess.csproj" />
+    </ItemGroup>
+
+</Project>
